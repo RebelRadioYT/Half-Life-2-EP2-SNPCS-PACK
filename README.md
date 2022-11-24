@@ -1,4 +1,7 @@
 #How to install the pack
-Downlaod the lastest relase
+
+Download the lastest relase
+
 Extract the zip file
-Place the extratced file in "Steam\steamapps\common\GarrysMod\garrysmod\addons"
+
+Place the extracted file in "Steam\steamapps\common\GarrysMod\garrysmod\addons"
